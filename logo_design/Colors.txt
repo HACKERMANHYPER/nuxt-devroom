@@ -1,0 +1,4 @@
+Font: Gotham Ultra Italic
+Color-logo: #2563eb || tw-blue-600
+color-bg: #0e171e
+color-text: #f2f5fd
