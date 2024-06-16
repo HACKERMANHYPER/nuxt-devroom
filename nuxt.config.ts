@@ -5,8 +5,9 @@ export default defineNuxtConfig({
   css: ['~/assets/css/fonts.css','~/assets/css/global.css'], //TODO fix css global file
   ui: {
     icons: ['ri', 'heroicons']
-  },
-  nitro: {
-    preset: 'vercel',
   }
+  // ,
+  // nitro: {
+  //   preset: 'vercel',
+  // }
 })
