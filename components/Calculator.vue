@@ -98,8 +98,8 @@ function calc() {
 
 <style>
 :root {
-    --grey: #212832;
-    --orange: #fb7845;
+    --calc-grey: #212832;
+    --calc-orange: #fb7845;
 }
 
 .calculator {
@@ -109,7 +109,6 @@ function calc() {
     row-gap: 10px;
     column-gap: 10px;
     text-align: center;
-    background-color: black;
     padding: 2rem;
 }
 .calculator .display {
@@ -123,11 +122,11 @@ function calc() {
 .calculator .equal {
     grid-column: 3 / 5;
     grid-row: 6;
-    background-color: var(--orange);
+    background-color: var(--calc-orange);
     font-weight: 800;
 }
 .calculator div {
-    background-color: var(--grey);
+    background-color: var(--calc-grey);
     border-radius: 2px;
     padding: 15px;
     font-weight: 500;

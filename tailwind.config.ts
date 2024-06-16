@@ -9,5 +9,8 @@ export default <Partial<Config>>{
                 'hd-black': '#0e171e',
             },
         },
+        fontFamily: {
+            'display': ['Gotham Ultra'],
+        }
     },
 }
