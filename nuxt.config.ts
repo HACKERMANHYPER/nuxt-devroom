@@ -6,9 +6,9 @@ export default defineNuxtConfig({
   ui: {
     icons: ['ri', 'heroicons']
   }
-  ,
-  nitro: {
-    preset: 'vercel',
-    analyze: false, // Versuche, die Analyse zu deaktivieren
-  }
+  // ,
+  // nitro: {
+  //   preset: 'vercel',
+  //   analyze: false, // Versuche, die Analyse zu deaktivieren
+  // }
 })
