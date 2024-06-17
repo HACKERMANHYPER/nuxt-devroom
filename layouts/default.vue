@@ -8,7 +8,7 @@
 
 
 <style>
-/* TODO fix this with better practice */
+/* TODO fix this with better practice /css file not loading rn*/
 body {
   @apply bg-gray-900;
   font-family: Roboto;
